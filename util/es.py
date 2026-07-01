@@ -3,7 +3,7 @@ from elasticsearch import Elasticsearch
 from elasticsearch.helpers import bulk as es_bulk
 
 # 접속 정보 설정
-ES_HOST = "http://100.99.254.68:9200"
+ES_HOST = "http://localhost:9200"
 
 # =========================
 # 인덱스 관리
