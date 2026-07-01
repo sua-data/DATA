@@ -69,3 +69,9 @@ DATA/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+
+## 📌 Development Log
+
+프로젝트 진행 과정은 아래 문서에서 확인할 수 있습니다.
+
+👉 [개발 로그 전체 보기](./docs/devlog)
